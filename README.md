@@ -1,3 +1,5 @@
+I clone this to add the plugin flot.tooltip
+
 # Flot Rails #
 Rails 3 Wrapper for flot an ...
 
